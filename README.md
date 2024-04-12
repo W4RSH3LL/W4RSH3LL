@@ -64,6 +64,15 @@ Here are some of the technologies I work with:
 ![Music Production](https://img.shields.io/badge/Music_Production-FFD700?style=for-the-badge&logo=music&logoColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=for-the-badge&logo=deezer&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+
+### 📊 GitHub Stats:
+
+![W4RSH3LL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=W4RSH3LL&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W4RSH3LL&layout=compact&theme=radical)
+
 
 ### 🚀 Projects
 
