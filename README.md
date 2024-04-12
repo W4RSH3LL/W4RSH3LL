@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm W4RSH3LL 👋</h1>
+<h1 align="center">Hi there, I'm W4RSH3LL 🐚</h1>
 
 <p align="center">
   <img src="art-logo.jpg" alt="Profile Picture">
@@ -43,8 +43,8 @@ Here are some of the technologies I work with:
 
 ### 🚀 Projects
 
-- **Project 1**: A detailed description of your project, technologies used, and what you learned from it.
-- **Project 2**: Another project showcase that highlights your skills and contributions to the cybersecurity community.
+- **Project 1**: A small combination of a Network Scanner script, ARP Spoofer script and a Packet Sniffer to place you in the middle of the connection and sniff credentials.
+- **Project 2**: A python reconaissance script used to automate the different scans for HTB Machines: Nmap, Dirb, etc...
 
 ### 📫 How to Reach Me
 
