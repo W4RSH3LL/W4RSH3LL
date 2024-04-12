@@ -39,6 +39,8 @@ Here are some of the technologies I work with:
 ![LAMP](https://img.shields.io/badge/LAMP-000000?style=for-the-badge&logo=lamp&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Virtual Box](https://img.shields.io/badge/Virtual_Box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![OSMC](https://img.shields.io/badge/OSMC-17394A?style=for-the-badge&logo=osmc&logoColor=white)
