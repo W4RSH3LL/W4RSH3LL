@@ -37,6 +37,8 @@ Here are some of the technologies I work with:
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![LAMP](https://img.shields.io/badge/LAMP-000000?style=for-the-badge&logo=lamp&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-000000?style=for-the-badge&logo=FlipperZero&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-000000?style=for-the-badge&logo=RaspberryPiPico&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
