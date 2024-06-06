@@ -85,6 +85,5 @@ Here are some of the technologies I work with:
 
 ### 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-mc-calla-7026012ba/?originalSubdomain=fr) or send me an email at `s.mccalla@proton.me`.
-Personal [Portfolio](https://samuelmc.000webhostapp.com/)
+Feel free to connect with me: `s.mccalla@proton.me`. Personal [Portfolio](https://samuelmc.000webhostapp.com/)
 
