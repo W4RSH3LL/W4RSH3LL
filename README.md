@@ -62,6 +62,9 @@ Here are some of the technologies I work with:
 ![DHCP](https://img.shields.io/badge/DHCP-0593D3?style=for-the-badge&logo=dynamic-host-configuration-protocol&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-FFD700?style=for-the-badge&logo=domain-name-system&logoColor=black)
 ![ARP](https://img.shields.io/badge/ARP-CC0000?style=for-the-badge&logo=address-resolution-protocol&logoColor=white)
+![RADIUS](https://img.shields.io/badge/RADIUS-0088CC?style=for-the-badge&logo=radius&logoColor=white)
+![DVWA](https://img.shields.io/badge/DVWA-1E90FF?style=for-the-badge&logo=damn-vulnerable-web-app&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-FE5000?style=for-the-badge&logo=suricata&logoColor=white)
 ![Remote Desktop Protocol](https://img.shields.io/badge/Remote_Desktop_Protocol-0A5A9C?style=for-the-badge&logo=remote-desktop-protocol&logoColor=white)
 ![SMTP](https://img.shields.io/badge/SMTP-FF9900?style=for-the-badge&logo=simple-mail-transfer-protocol&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL_Studio-050505?style=for-the-badge&logo=fl-studio&logoColor=white)
@@ -70,6 +73,7 @@ Here are some of the technologies I work with:
 ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=for-the-badge&logo=deezer&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+
 
 ### 📊 GitHub Stats:
 
